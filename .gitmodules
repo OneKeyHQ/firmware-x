@@ -1,0 +1,6 @@
+[submodule "modules/libusbgx"]
+	path = modules/libusbgx
+	url = https://github.com/linux-usb-gadgets/libusbgx.git
+[submodule "modules/libBzhUtils"]
+	path = modules/libBzhUtils
+	url = https://github.com/424778940z/libBzhUtils.git
