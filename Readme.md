@@ -1,6 +1,6 @@
-# USB Communication Demo
-
-This demo project runs on embedded Linux on target board, and make the board emulate an OneKey Touch Bootloader device that firmware.onekey.so could pickup and display device details
+# 👷‍♂️ Still under construction
+# 📦 The full firmware will be dropping soon
+# 📡 Stay tuned
 
 ## How it works
 
